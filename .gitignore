@@ -1,5 +1,5 @@
 .idea/*
-bin/main
+bin
 ipv4.dat
 nali
 *.dat
